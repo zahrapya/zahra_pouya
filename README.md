@@ -1,6 +1,6 @@
 # zahra_pouya
 Hello! I'm Zahra
-Backend Developer(FastAPI | Python | Nuxt.js)
+Backend Developer(FastAPI | Python)
 
 My Experience:
 
